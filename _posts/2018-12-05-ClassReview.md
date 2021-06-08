@@ -5,7 +5,7 @@ subtitle: '线上社群V咖分享'
 author: "Haauleon"
 header-style: text
 tags:
-  - 测试用例
+  - 软件测试基础
 ---
 
 &emsp;&emsp;这篇博文意在归纳分享课笔记，从功能性出发来了解基于脑图的需求分析和用例分析。

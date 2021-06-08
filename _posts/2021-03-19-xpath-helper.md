@@ -5,7 +5,7 @@ subtitle: '快速生成或解析 xpath 路径'
 author: "Haauleon"
 header-style: text
 tags:
-  - chrome插件
+  - Chrome 扩展
 ---  
 
 

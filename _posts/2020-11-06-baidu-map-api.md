@@ -10,7 +10,7 @@ tags:
 
 
 ## 实现效果
-![](\img\in-post\2020-11-06-baidu-map-api\1.jpg) 
+![](\img\in-post\post-other\2020-11-06-baidu-map-api-1.jpg) 
 <br>
 
 ## 完整的 html 代码

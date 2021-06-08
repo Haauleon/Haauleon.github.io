@@ -5,14 +5,17 @@ subtitle: "我心目中的潮流之选"
 author: "Haauleon"
 header-style: text
 tags:
-  - 报警小可爱
+    - API 测试
+    - Python
+    - Newman
+    - Postman
 ---
 
 ## 背景
 &emsp;&emsp;一直都觉得使用邮件做报警提示或者消息推送实在太 low 了，别说是邮件了，邮箱我都讨厌打开，一堆乱七八糟的广告推送，太烦了。而且我又属于能少打开一个就少打开一个页面的那种人。    
 &emsp;&emsp;后来考虑了使用短信推送、电话推送，但因为种种难题（亦或是要收钱）就放弃了。刚在 OT 的时候浏览到一个好东西~也就是使用钉钉机器人作为报警提示。有几个好处，一就是现在的打工人是人手一个钉钉，二来就是这玩意的效果跟群聊差不多。总之，这玩意也挺好玩的，先送上效果图。     
 
-![](\img\in-post\2020-11-08-dingding-notice\1.jpg)  
+![](\img\in-post\post-postman\2020-11-08-dingding-notice-1.jpg)  
 
 <br><br>
 

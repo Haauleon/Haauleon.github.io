@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "xpath finder获取元素路径"
-subtitle: '简易的插件替代Firebug和Firepath'
+title: "Firefox | xpath finder 获取元素路径"
+subtitle: '简易的插件替代 Firebug 和 Firepath'
 author: "Haauleon"
 header-style: text
 tags:
-  - FireBug
-  - FirePath
+  - Firefox 插件
 ---
 
 &emsp;&emsp;说到获取元素的Xpath路径，很多人第一反应就是Firebug和Firepath，包括我也一样，但是今天不说这两个插件，来分享一下xpath finder插件的使用心得，也是很友好的。
@@ -22,11 +21,11 @@ tags:
 
 添加完成后，在面板栏会出现该插件的标识，是长的这个样子。               
 
-![](\img\in-post\2019-03-05-xpath_finder\1.jpg)     
+![](\img\in-post\post-firefox\2019-03-05-xpath_finder-1.jpg)     
 
-![](\img\in-post\2019-03-05-xpath_finder\2.jpg)      
+![](\img\in-post\post-firefox\2019-03-05-xpath_finder-2.jpg)      
 
-![](\img\in-post\2019-03-05-xpath_finder\3.jpg)
+![](\img\in-post\post-firefox\2019-03-05-xpath_finder-3.jpg)
 
 ## 使用感受
 

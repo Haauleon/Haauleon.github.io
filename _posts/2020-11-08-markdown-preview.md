@@ -5,14 +5,14 @@ subtitle: "编辑器伴侣"
 author: "Haauleon"
 header-style: text
 tags:
-  - vscode插件
+  - Vscode 插件
 ---
 
 
 ## 使用效果
 &emsp;&emsp;使用效果也就是分屏预览，一个屏用于编辑 markdown，一个屏用于预览。    
 
-![](\img\in-post\2020-11-08-markdown-preview\1.jpg)
+![](\img\in-post\post-vscode\2020-11-08-markdown-preview-1.jpg)
 
 <br><br>
 
@@ -29,4 +29,4 @@ tags:
 ## 插件使用   
 &emsp;&emsp;打开一个 md 文件，右键单击如下图即可成功预览。   
 
-![](\img\in-post\2020-11-08-markdown-preview\2.jpg)
+![](\img\in-post\post-vscode\2020-11-08-markdown-preview-2.jpg)

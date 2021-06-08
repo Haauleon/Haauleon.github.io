@@ -5,8 +5,8 @@ subtitle: "在 windows 的子系统上安装 node 的问题解决"
 author: "Haauleon"
 header-style: text
 tags:
-  - WSL
-  - node
+  - 异常库
+  - Nodejs
 ---
 
 **问题背景：**       

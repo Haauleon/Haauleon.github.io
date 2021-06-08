@@ -5,7 +5,7 @@ subtitle: '解决 mac 下安装 crx 插件的解决方法'
 author: "Haauleon"
 header-style: text
 tags:
-  - chrome插件
+  - Chrome 扩展
 ---     
 
 &emsp;&emsp;在 Mac 系统下，很多第三方下载的 `.crx` 后缀的 Chrome 浏览器的插件都无法安装。
